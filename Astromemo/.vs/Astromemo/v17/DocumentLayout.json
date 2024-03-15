@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN221\\Practive\\WPF_Astromemo\\Astromemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC7ECD1-D5F3-4C54-A02F-04823F85A962}|Astromemo\\Astromemo.csproj|d:\\fpt\\prn221\\practive\\wpf_astromemo\\astromemo\\astromemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC7ECD1-D5F3-4C54-A02F-04823F85A962}|Astromemo\\Astromemo.csproj|solutionrelative:astromemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC7ECD1-D5F3-4C54-A02F-04823F85A962}|Astromemo\\Astromemo.csproj|d:\\fpt\\prn221\\practive\\wpf_astromemo\\astromemo\\astromemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FEC7ECD1-D5F3-4C54-A02F-04823F85A962}|Astromemo\\Astromemo.csproj|solutionrelative:astromemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN221\\Practive\\WPF_Astromemo\\Astromemo\\Astromemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Astromemo\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN221\\Practive\\WPF_Astromemo\\Astromemo\\Astromemo\\MainWindow.xaml",
+              "RelativeToolTip": "Astromemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-15T12:20:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN221\\Practive\\WPF_Astromemo\\Astromemo\\Astromemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Astromemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN221\\Practive\\WPF_Astromemo\\Astromemo\\Astromemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Astromemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwD0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:20:19.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
